@@ -2,7 +2,7 @@ require 'pry'
 
 def second_supply_for_fourth_of_july(holiday_hash)
   holiday_hash[:winter][:christmas] << supply
-end
+
   # given that holiday_hash looks like this:
   # {
   #   :winter => {
